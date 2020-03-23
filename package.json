@@ -1,7 +1,7 @@
 {
-  "name": "emergency-site",
+  "name": "rystraum-com",
   "version": "1.0.0",
-  "description": "A boilerplate for emergency information websites",
+  "description": "Stream of Ry",
   "scripts": {
     "build": "eleventy",
     "watch": "eleventy --watch",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/maxboeck/emergency-site"
+    "url": "http://github.com/rystraum/rystraum-com"
   },
   "author": "Max Böck",
   "license": "MIT",
