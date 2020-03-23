@@ -24,6 +24,9 @@
     "html-minifier": "^4.0.0",
     "luxon": "^1.22.0",
     "markdown-it": "^10.0.0",
-    "markdown-it-anchor": "^5.2.5"
+    "markdown-it-anchor": "^5.2.5",
+    "acorn": "^5.7.4",
+    "minimist": "^1.2.2",
+    "core-js": "3"
   }
 }
