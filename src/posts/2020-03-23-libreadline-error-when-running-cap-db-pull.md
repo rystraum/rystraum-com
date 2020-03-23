@@ -2,7 +2,7 @@
 title: 'libreadline error when running cap db:pull'
 date: 2020-03-23T05:00:00.000Z
 ---
-This is specific to our tech stack, but we use [capistrano-db-tasks](https://github.com/rystraum/capistrano-db-tasks) to pull data from our server.
+We use [capistrano-db-tasks](https://github.com/rystraum/capistrano-db-tasks) to pull data from our server.
 
 Occasionally, we encounter the following error on Macs:
 
