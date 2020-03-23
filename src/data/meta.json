@@ -1,11 +1,10 @@
 {
-    "title": "Emergency Site",
-    "url": "https://emergency-site.dev",
-    "description": "A boilerplate for emergency information websites.",
+    "title": "Stream of Ry",
+    "url": "https://www.rystraum.com",
+    "description": "Tech & Business. Mostly tech.",
     "lang": "en",
     "dateFormat": "dd LLLL yyyy, T",
     "contact": {
-        "email": "information@emergency.org",
-        "telephone": "+01 234 567 890"
+        "email": "rystraum@rystraum.com"
     }
 }
