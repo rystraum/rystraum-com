@@ -3,7 +3,7 @@
     "url": "https://www.rystraum.com",
     "description": "Tech & Business. Mostly tech.",
     "lang": "en",
-    "dateFormat": "dd LLLL yyyy, T",
+    "dateFormat": "dd LLL yyyy T",
     "contact": {
         "email": "rystraum@rystraum.com"
     }

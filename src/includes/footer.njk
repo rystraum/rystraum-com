@@ -1,8 +1,9 @@
 <footer class="footer">
     {% if meta.contact.email %}
-        <p><a href="mailto:{{ meta.contact.email }}">{{ meta.contact.email }}</a></p>
+        <div><a href="mailto:{{ meta.contact.email }}">{{ meta.contact.email }}</a></div>
     {% endif %}
     {% if meta.contact.telephone %}
-        <p><a href="tel:{{ meta.contact.telephone }}">{{ meta.contact.telephone }}</a></p>
+        <div><a href="tel:{{ meta.contact.telephone }}">{{ meta.contact.telephone }}</a></div>
     {% endif %}
+    <div class="credits">Icons made by <a href="" title="xnimrodx">xnimrodx</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 </footer>
