@@ -18,15 +18,15 @@
   "dependencies": {
     "@11ty/eleventy": "^0.10.0",
     "@11ty/eleventy-plugin-rss": "^1.0.7",
+    "acorn": "^5.7.4",
     "clean-css": "^4.2.3",
+    "core-js": "3",
     "dotenv": "^8.2.0",
     "eleventy-plugin-pwa": "^1.0.8",
     "html-minifier": "^4.0.0",
     "luxon": "^1.22.0",
     "markdown-it": "^10.0.0",
     "markdown-it-anchor": "^5.2.5",
-    "acorn": "^5.7.4",
-    "minimist": "^1.2.2",
-    "core-js": "3"
+    "minimist": "^1.2.2"
   }
 }
