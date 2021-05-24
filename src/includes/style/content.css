@@ -1,6 +1,6 @@
 .content {
     padding: 1em 0;
-    max-width: 60ch;
+    max-width: 80ch;
 }
 
 .content > * + * {
@@ -10,4 +10,11 @@
 .content ul,
 .content ol {
     padding-left: 1em;
+}
+
+.content code {
+    background-color: #333;
+    color: white;
+    padding: 0.5em;
+    display: inline-block;
 }

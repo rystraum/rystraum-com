@@ -4,7 +4,7 @@
         <time datetime="{{ post.date | dateToFormat('yyyy-LL-dd') }}">
             {{ post.date | dateToFormat(meta.dateFormat) }}
         </time>
-        <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+        <span><a href="{{ post.url | url }}">{{ post.data.title }}</a></span>
     </li>
 {% endfor %}
 </ol>

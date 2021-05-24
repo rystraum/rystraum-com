@@ -37,6 +37,10 @@ html {
     flex: 1 0 auto;
 }
 
+.homepage {
+    display: flex;
+}
+
 .footer {
     display: flex;
     justify-content: space-between;
@@ -44,11 +48,39 @@ html {
     font-size: 50%;
 }
 
+.footer-menu {
+    display: block;
+    justify-content: initial;
+}
+
+.footer-menu ul {
+    display: flex;
+    list-style: none;
+}
+
+.footer-menu li {
+    margin: 0;
+    margin-right: 1rem;
+    padding: 0;
+}
+
 .footer .credits {
     text-align: right;
 }
 
+.postlist li {
+    margin-bottom: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.postlist a {
+    text-decoration: none;
+    border-bottom: 1px solid;
+}
+
 .postlist time {
-    font-family: 'Ubuntu Mono', monospace;
-    margin-right: 1rem;
+    font-size: 65%;
+    margin-bottom: 0.3rem;
+    /* font-family: 'Ubuntu Mono', monospace; */
 }
