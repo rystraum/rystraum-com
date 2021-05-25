@@ -21,7 +21,7 @@ cat mobileapp_deped_gov_ph.crt DigiCertCA.crt > mobileapp.deped.gov.ph.ssl-bundl
 
 ## Creating a .pfx file from .crt files
 
-Azure requires a pfx file to add to the Application Gateway which will act as our SSL termination endpoint.
+Azure requires a pfx file to add to the Application Gateway which will act as our SSL termination endpoint. Azure requires that the pfx file be password protected.
 
 ```
 openssl pkcs12 -export -out mobileapp.deped.gov.ph.pfx -inkey ../mobileapp.deped.gov.ph.key -in mobileapp_deped_gov_ph.crt -certfile DigiCertCA.crt -certfile TrustedRoot.crt
