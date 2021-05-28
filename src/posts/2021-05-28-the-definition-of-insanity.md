@@ -14,19 +14,28 @@ We started this company because we wanted someone else to pay for our eat outs. 
 
 Luck is what happens when preparation meets opportunity and we've been nothing but preparing - equal parts psychologically and technically. We've been getting lucky since we decided to close shop.
 
+
+
 We are stronger now because we struggled so we will continue to struggle with bigger things.
 
 We are better now because we never stopped building so we will continue to build better things.
 
 We are wiser now because we made so many mistakes so we will continue to make better mistakes.
 
+
+
 I know that the next decade will be different but in some ways still the same.
+
+
 
 Why persist? Because nothing worth doing is ever easy. Hard things are valuable things.
 
 To what end? To be the very best. Like no one ever was.
 
+
+
 Happy 10th Anniversary.
+
 
 
 **Rystraum F. Gamonez**
